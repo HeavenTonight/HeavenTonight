@@ -1,6 +1,6 @@
 ### Hi 👋
 
-[![HT GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeavenTonight&show_icons=true&include_all_commits=true&theme=aura)](https://github.com/HeavenTonight)
+[![HT GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeavenTonight&show_icons=true&include_all_commits=true&theme=aura&count_private=true)](https://github.com/HeavenTonight)
 
 
 - 🔭 I’m currently working on ...
