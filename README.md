@@ -1,6 +1,10 @@
 ### Hi 👋
+| <a href="https://github.com/HeavenTonight"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HeavenTonight&show_icons=true&include_all_commits=true&theme=aura&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/HeavenTonight"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenTonight&hide_border=true&layout=compact&theme=aura" /></a> |
+| ------------- | ------------- |
 
-[![HT GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeavenTonight&show_icons=true&include_all_commits=true&theme=aura&count_private=true)](https://github.com/HeavenTonight)
+
+
+<!-- [![HT GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeavenTonight&show_icons=true&include_all_commits=true&theme=aura&count_private=true)](https://github.com/HeavenTonight) -->
 
 
 - 🔭 I’m currently working on ...
@@ -15,8 +19,6 @@
 - ⚡ Fun fact: ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenTonight)](https://github.com/HeavenTonight)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenTonight)](https://github.com/HeavenTonight) -->
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
