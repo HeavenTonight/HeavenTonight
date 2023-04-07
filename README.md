@@ -1,6 +1,5 @@
-![Hiven OU's GitHub stats](https://github-readme-stats-ht.vercel.app/api?username=HeavenTonight&show_icons=true&include_all_commits=true&theme=merko&count_private=true&hide_border=true)
 ### Hi 👋
-| <a href="https://github.com/HeavenTonight"><img align="center" src="https://github-readme-stats-ht.vercel.app/api?username=HeavenTonight&show_icons=true&include_all_commits=true&theme=merko&count_private=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/HeavenTonight"><img align="center" src="https://github-readme-stats-ht.vercel.app/api/top-langs/?username=HeavenTonight&hide_border=true&layout=compact&theme=buefy" /></a> |
+| <a href="https://github.com/HeavenTonight">![Hiven OU's GitHub stats](https://github-readme-stats-ht.vercel.app/api?username=HeavenTonight&show_icons=true&include_all_commits=true&theme=merko&count_private=true&hide_border=true)</a> | <a href="https://github.com/HeavenTonight"><img align="center" src="https://github-readme-stats-ht.vercel.app/api/top-langs/?username=HeavenTonight&hide_border=true&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 
